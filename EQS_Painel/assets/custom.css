@@ -1,0 +1,27 @@
+/* Paleta EQS: azul-petróleo (#004B8D), cinza-claro (#F5F5F5), branco (#FFFFFF) */
+
+body {
+  background: #F5F5F5;
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
+
+.topbar {
+  background: #FFFFFF;
+  border-bottom: 1px solid #E5E7EB;
+}
+
+.text-brand {
+  color: #004B8D;
+  font-weight: 700;
+}
+
+.label {
+  font-weight: 600;
+  color: #004B8D;
+}
+
+.card {
+  border-radius: 12px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+}
